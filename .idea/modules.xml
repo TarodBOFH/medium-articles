@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/medium-articles.iml" filepath="$PROJECT_DIR$/medium-articles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/medium-articles_main.iml" filepath="$PROJECT_DIR$/.idea/modules/medium-articles_main.iml" group="medium-articles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/medium-articles_test.iml" filepath="$PROJECT_DIR$/.idea/modules/medium-articles_test.iml" group="medium-articles" />
+    </modules>
+  </component>
+</project>
